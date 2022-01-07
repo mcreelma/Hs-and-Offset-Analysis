@@ -11,3 +11,7 @@ Differencing:
 
 Flight Visualization:
 ![Figure 2022-01-06 174006](https://user-images.githubusercontent.com/44550282/148473477-768ab9a3-3624-4c7e-b01a-21874be15ea6.png)
+
+
+Offset:
+![1-20 and 3-10 Elevation vs  height difference 2](https://user-images.githubusercontent.com/44550282/148475604-d1fb7aad-07a5-4d25-86b5-f75383a68b86.png)
