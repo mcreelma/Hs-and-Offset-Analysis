@@ -3,6 +3,11 @@ Script designed to compare changes in height of snow, using pre-defined road sec
 
 Written and optimized for Spyder GUI
 
+Requirements:
+* 2 DEM's from the same observation area
+* 1 shape file (.shp and .shx versions needed with same name)
+* Easting/northing coordinates of area of interest
+
 Differencing:
 ![Figure 2022-01-06 181206](https://user-images.githubusercontent.com/44550282/148475215-0017b140-0351-4b69-bccd-27c06901845b.png)
 
